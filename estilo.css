@@ -1,0 +1,35 @@
+#imagem_fundo{
+    background: url("img/imagem_fundo.jpg");
+    background-repeat: no-repeat;
+    height: 1000px;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+  
+}
+#titulo{
+    color:rgb(255, 255, 255);
+    padding-top: 15%;
+    font-size: 60px;
+    line-height: 0.8;
+    
+}
+
+#subtitulo{
+    color: white;
+    font-size: 30px;
+    margin-left:20%;
+    margin-right: 20%;
+    border-top: 2px solid white;
+
+}
+#botao{
+    color: black;
+    font-size:20px;
+    border: 1px solid black;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color:lightgoldenrodyellow;
+   
+}
